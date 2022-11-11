@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>nova (1).png</file>
+    <file>nova.png</file>
+    <file>logo_ps-removebg-preview (1).png</file>
+    <file>icons8-circled-envelope-50.png</file>
+    <file>icons8-whatsapp-48.png</file>
+    <file>icons8-youtube-48.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>menu.png</file>
+  </qresource>
+</RCC>
